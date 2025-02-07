@@ -3,7 +3,9 @@
 html {
     scroll-behavior: smooth;
 }
-
+.social-icons a {
+    text-decoration: none; 
+  }
 * {
     box-sizing: border-box;
     margin: 0;
